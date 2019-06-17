@@ -7,7 +7,6 @@ import thunkMiddleware from 'redux-thunk'
 import "./index.css";
 import App from "./containers/App";
 import * as serviceWorker from "./serviceWorker";
-import 'tachyons';
 import { searchRobots, requestRobots } from "./reducers";
 
 
