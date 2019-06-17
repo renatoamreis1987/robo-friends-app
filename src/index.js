@@ -8,7 +8,7 @@ import "./index.css";
 import App from "./containers/App";
 import * as serviceWorker from "./serviceWorker";
 import { searchRobots, requestRobots } from "./reducers";
-
+import 'tachyons';
 
 const logger = createLogger()
 
